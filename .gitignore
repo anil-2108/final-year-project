@@ -1,0 +1,68 @@
+# -------------------------
+# Python (Backend)
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+.env
+
+# Model files (VERY IMPORTANT)
+*.h5
+*.pt
+*.pth
+
+# Training outputs / images
+*.png
+*.jpg
+*.jpeg
+
+# -------------------------
+# Node / Frontend
+# -------------------------
+node_modules/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -------------------------
+# Vite / React
+# -------------------------
+.vite/
+*.tsbuildinfo
+
+# -------------------------
+# Supabase
+# -------------------------
+frontend/supabase/.temp/
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# VS Code
+# -------------------------
+.vscode/
+
+# -------------------------
+# Large ML model folders
+# -------------------------
+backend/model/
+frontend/public/models/
+
+# -------------------------
+# Misc
+# -------------------------
+*.log
