@@ -1,4 +1,4 @@
-# 🎓 AI-Based Student Attendance & Engagement Detection System
+# 🎓 VISION-BASED DEEP LEARNING FOR ENGAGEMENT DETECTION AND STUDENT ATTENDANCE
 
 ## 📌 Project Description
 
@@ -106,7 +106,7 @@ Large files such as datasets and trained models are excluded from this repositor
 
 ## 👨‍💻 Author
 
-Anil
+Anil,
 Vijay
 
 ---
